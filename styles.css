@@ -1,0 +1,37 @@
+body{background: black;
+   
+}
+.grid-container {   
+     display: grid;
+     grid-template-columns: 50px auto auto;
+     padding: 10px;
+} 
+
+.post{
+     width: 530px;
+     height:950px;
+     background:white;
+     margin:auto;
+     padding: 10px;
+}
+
+img{
+     margin: auto;
+     width: 540px;
+     height:600px;  
+}
+
+.post-header{
+     display: flex;
+}
+.grid-item{
+     margin-top: auto;
+     margin-bottom: auto;
+}
+
+h1{ 
+     margin-left: 0;
+     line-height: center;
+}
+
+
