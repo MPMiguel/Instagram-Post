@@ -1,3 +1,13 @@
+1-He creado un div principal que contiene todo el contenido de lo que seria el post.
+
+2-Luego un grid container que contiene 3 items ,el logo,item y el icono.
+
+3-Un div con la imagen
+
+4-Otro div que alberga los 4 iconos
+
+5-Y un ultimo div con el texto de la imagen
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
