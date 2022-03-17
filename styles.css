@@ -4,21 +4,21 @@ body{background: black;
 .grid-container {   
      display: grid;
      grid-template-columns: 50px auto auto;
-     padding: 10px;
+     margin: auto;
 } 
 
 .post{
      width: 530px;
-     height:950px;
+     height:970px;
      background:white;
-     margin:auto;
-     padding: 10px;
+     margin: auto;
 }
 
 img{
-     margin: auto;
-     width: 540px;
-     height:600px;  
+     margin: 0%;
+     width: 530px;
+     height:650px; 
+    
 }
 
 .post-header{
