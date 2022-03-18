@@ -1,6 +1,6 @@
 1-He creado un div principal que contiene todo el contenido de lo que seria el post.
 
-2-Luego un grid container que contiene 3 items ,el logo,item y el icono.
+2-Luego un grid container que contiene  3 divs ,el logo,el titulo con subtitulo y el icono.
 
 3-Un div con la imagen
 
